@@ -1,4 +1,6 @@
 # 🌍 AXIOM AUDIT: GLOBAL EDITION (v1.0)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://axiom-audit.streamlit.app)
+
 ### Universal Infrastructure Audit & Efficiency Engine
 
 **Developed by Aquaflux Tech (Tanzania)**
